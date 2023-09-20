@@ -21,7 +21,7 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end; /* Align the navigation to the right */
 }
 
 li {
@@ -34,7 +34,7 @@ a {
     font-weight: bold;
 }
 
-/* Style for menu items on hover */
+/* Style the menu items on hover */
 a:hover {
     color: #ff6600;
 }
