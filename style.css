@@ -12,12 +12,9 @@ header {
     text-align: center;
 }
 div#logoLeft{
-    display: grid;
-    grid-template-columns:max-content auto;
-    background-color: #444;
+    text-align: center;
+    background-color: #303030;
 }
-
-
 
 nav {
     background-color: #f0f0f0;
