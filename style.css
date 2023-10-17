@@ -11,14 +11,22 @@ header {
     padding: 10px;
     text-align: center;
 }
+div#logoLeft{
+    display: grid;
+    grid-template-columns:max-content auto;
+    background-color: #444;
+}
+
+
 
 nav {
-    background-color: #444;
+    background-color: #f0f0f0;
     padding: 10px;
+    padding-top: 30px;
 }
 
 img.logo{
-    width: 60px; 
+    width: auto; 
     height:60px;
     margin: 2rem;
 }
@@ -36,7 +44,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: black;
     font-weight: bold;
 }
 
