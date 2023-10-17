@@ -33,9 +33,13 @@ header {
     margin-left: 10px;
 }
 #phone{
-    height:20px;
-    width:20px;
-text-align: right;
+    height:30px;
+    width:30px;
+    margin-left: 10px;
+}
+
+#tel{
+    margin-left: 10px; 
 }
 div#logoLeft{
     text-align: center;
