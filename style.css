@@ -22,15 +22,28 @@ header {
         height: 20px;
         width: 20px;
         margin-left: 20px;
-}#whatsapp{
+}
+#twitter:hover{
+    height: 22px; 
+    animation-duration: 10ms;
+}
+#whatsapp{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+}
+#whatsapp:hover{
+    height: 22px; 
+    animation-duration: 10ms;
 }
 #fb{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+}
+#fb:hover{
+    height: 22px;
+    animation-duration: 10ms; 
 }
 #phone{
     height:20px;
@@ -39,7 +52,10 @@ header {
     margin-left: 75%;
 }
 #phone:hover{
- border: thin solid #d775ae25 ;
+    height: 21px;
+    width: auto + 1px;
+    animation-duration: 10ms;
+
 }
 
 div#logoLeft{
