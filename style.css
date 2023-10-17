@@ -15,22 +15,27 @@ header {
 #socials{
     height: 20px;
     padding: 20px;
+    display: flex;
+}
+
+#twitter{
+        height: 20px;
+        width: 20px;
+        margin-left: 10px;
+}#whatsapp{
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
 }
 #fb{
     height: 20px;
     width: 20px;
-}
-#whatsapp{
-    height: 20px;
-    width: 20px;
-}
-#twitter{
-        height: 20px;
-        width: 20px;
+    margin-left: 10px;
 }
 #phone{
     height:20px;
     width:20px;
+text-align: right;
 }
 div#logoLeft{
     text-align: center;
