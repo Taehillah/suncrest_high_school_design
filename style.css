@@ -38,7 +38,9 @@ header {
     margin-right: 20% !important;
     margin-left: 75%;
 }
-
+#phone:hover{
+ border: thin solid #d775ae25 ;
+}
 
 div#logoLeft{
     text-align: center;
