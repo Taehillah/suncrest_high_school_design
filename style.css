@@ -16,6 +16,11 @@ nav {
     background-color: #444;
 }
 
+img.logo{
+    width: 60px; 
+    height:60px;
+    margin: 2rem;
+}
 ul {
     list-style: none;
     margin: 0;
