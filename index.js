@@ -1,4 +1,8 @@
-let twitter = document.querySelector('#twitter');
-let whatsapp = document.querySelector('#whatsapp');
-let facebook = document.querySelector('#fb');
-let phone = document.querySelector('#phone');
+const twitter = document.querySelector('#twitter');
+const whatsapp = document.querySelector('#whatsapp');
+const facebook = document.querySelector('#fb');
+const phone = document.querySelector('#phone');
+
+twitter.addEventListener('click',function twitterClickHandler (){
+location.pathname="https://twitter.com";
+});
