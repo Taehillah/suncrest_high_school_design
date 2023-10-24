@@ -170,11 +170,13 @@ footer {
 
 .img {
 aspect-ratio: 0.975;
+
+width: auto;
+height: 300px;
 }
 
+
 .media-container{
-   position: "50% 50%"; 
-   scale: "1.0";
-   
+flex: content;
 }
 
