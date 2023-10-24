@@ -169,6 +169,10 @@ footer {
 /* Arts and Culture Section */
 
 .img {
-width: 20px;
-height: 30px;
+aspect-ratio: 0.975;
 }
+
+.media-container{
+    
+}
+
