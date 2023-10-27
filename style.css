@@ -12,11 +12,14 @@ header {
     text-align: center;
 }
 
-#socials{
-    height: 20px;
-    padding: 20px;
-    display: flex;
-}
+#socials {
+    display: flex; /* Use flexbox to arrange the images in a row */
+    align-items: center; /* Vertically center the images */
+  }
+  
+  .social-icon {
+    margin-right: 10px; /* Add some spacing between the images */
+  }
 
 #twitter{
         height: 20px;
