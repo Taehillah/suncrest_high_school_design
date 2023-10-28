@@ -171,6 +171,10 @@ footer {
 }
 
 /*Home or Index*/
+
+h2#coreServices {
+text-align: center;
+}
 .card-container {
     display: flex;
     justify-content: space-between;
