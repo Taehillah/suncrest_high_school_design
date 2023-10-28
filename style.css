@@ -173,11 +173,11 @@ footer {
 /*Home or Index*/
 .card-container {
     display: flex;
-    justify-content: space-between; /* To evenly space the cards */
+    justify-content: space-between;
 }
 
 .card {
-    width: 30%; /* Adjust the width as needed */
+    width: 30%; 
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
