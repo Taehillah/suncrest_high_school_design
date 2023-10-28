@@ -170,6 +170,35 @@ footer {
     }
 }
 
+/*Home or Index*/
+.card-container {
+    display: flex;
+    justify-content: space-between; /* To evenly space the cards */
+}
+
+.card {
+    width: 30%; /* Adjust the width as needed */
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Style for the card content (you can customize this further) */
+.card h4 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 14px;
+    color: #555;
+}
+
+
 /* Arts and Culture Section */
 
 .img {
@@ -178,6 +207,7 @@ aspect-ratio: 0.975;
 width: auto;
 height: 300px;
 }
+
 
 .media-container{
 flex: content;
