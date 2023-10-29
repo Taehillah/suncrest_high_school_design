@@ -201,6 +201,15 @@ text-align: center;
     color: #555;
 }
 
+div.principalContent{
+display: flex;
+margin: 50px auto;
+}
+#principalPic{
+    width: 240px;
+    height: 360px;
+}
+
 
 /* Arts and Culture Section */
 
