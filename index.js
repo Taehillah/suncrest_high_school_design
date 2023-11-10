@@ -6,5 +6,5 @@ const phone = document.querySelector('#phone');
 document.addEventListener('click',function twitterClickHandler (){
     alert('Twitter clicked');
 //location.href   = "https://twitter.com";
-
+return true;
 });
